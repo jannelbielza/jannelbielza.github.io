@@ -1,0 +1,72 @@
+{
+  "basics": {
+    "name": "Jannel Bielza",
+    "label": "Shidler Undergraduate",
+    "picture": "https://avatars.githubusercontent.com/u/122326357?v=4",
+    "email": "jbielza@hawaii.edu",
+    "website": "https://jannelbielza.github.io",
+    "summary": "I am studying for a B.A. in Management Information Systems in the Shidler College of Business at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "jannelbielza", "url": "http://github.com/jannelbielza" },
+      { "network": "linkedin", "username": "jbielza", "url": "http://linkedin.com/in/jbielza" },
+      { "network": "instagram", "username": "j.xnnel", "url": "http://instagram.com/j.xnnel" }
+    ]
+  },
+  "interests": [
+    { "name": "UI/UX Design" },
+    { "name": "Project Management" },
+    { "name": "Web developing" },
+    { "name": "Film Cameras" },
+    { "name": "Gaming" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "Python", "Java", "Javascript" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Git/GitHub", "g++" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Management Information Systems (expected Spring, 2024)",
+      "studyType": "B.A.",
+      "startDate": "2020-09-01",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Hawaii Community College | Ko Education Center",
+      "position": "Student Intern",
+      "website": "https://hawaii.hawaii.edu/ko",
+      "startDate": "2022-06-01",
+      "endDate": "2022-07",
+      "Summary": [
+        "Collaborated with an Oakland-based nonprofit organization, Ikuna, to create a survey to get a better understanding of how the student feels about their culture, identity, and purpose. Gained skills in design thinking, survey development and project management."
+      ]
+    },
+    {
+      "company": "Hawaii community College | Ko Education Center",
+      "position": "Project Intern",
+      "website": "https://hawaii.hawaii.edu/ko",
+      "startDate": "2020-01",
+      "endDate": "2020-06",
+      "Summary": [
+        "Collaborated with high school students on a real-world project for local business, Arc of Kona. Improved skills in communication, professionalism, networking, ethical behavior, and critical thinking in the workplace; Gained skills in design thinking and financial literacy."
+      ]
+    }
+  ],
+
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
